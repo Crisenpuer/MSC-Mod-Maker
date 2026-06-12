@@ -49,7 +49,7 @@ Third Code
 
 Click Class1.cs and paste this code:
  
- 
+``` 
 using System;
 using MSCLoader;
 using UnityEngine;
@@ -82,9 +82,9 @@ public class NameMod : Mod -
 
 	}
 }
-
+```
 It should look something like this:
-
+```
 using System;
 using MSCLoader;
 using UnityEngine;
@@ -117,7 +117,7 @@ public class NameMod : Mod
 
     }
 }
-
+```
 
 Tips •ᴗ•
 
